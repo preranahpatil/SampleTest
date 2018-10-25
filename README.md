@@ -14,6 +14,6 @@ If runing from command line:
 or
 
 1.import the Entire Project in Eclipse
-2. In Run configuration put argument list: “abc123”/ “abc123” -x
+2. In Run configuration put argument list: Example: “abc123”/ “abc123” -x
 3.Run as Java Application.
 4. To run Test cases: Run Test.java as JUNIT.
