@@ -2,7 +2,7 @@
 README on how to build/test/execute your application
 The files:Addition.java and Test.java are in the src folder
 
-If ruuning from command line:
+If runing from command line:
 
 1.	Enter following command to compile the code - javac sample.java
 2.	A class file gets generate- sample.class
